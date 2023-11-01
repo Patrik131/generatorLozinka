@@ -1,0 +1,43 @@
+* {
+    font-family: 'Kanit'
+}
+
+
+body {
+    background-color: #434343;
+    color: white;
+}
+
+main {
+    max-width: 460px;
+    margin: 0 auto;
+}
+
+h1 span {
+    color: #73FF79;
+}
+
+#generiraj {
+    padding: 1em 2em;
+    background-color:  #73FF79;
+    width: fit-content;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.password-container {
+    display: flex;
+    justify-content: space-between;
+}
+hr {
+    color: #595959;
+    height: 2px;
+
+}
+#password1, #password2 {
+    padding: .6em, 3em;
+    background: #595959;
+    width: 200px;
+}
+
